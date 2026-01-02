@@ -8,6 +8,6 @@ This course is licensed under the [MIT License](LICENSE). You are free to use, m
 
 
 About me!
-Hi, I'm **Sameer**. I am IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi, I'm **Sameer**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
